@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me bishnuvimaljha@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:Bwoah!! Just A Hobby
+
 
 <!---
 BishnuIITBHUVNS/BishnuIITBHUVNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
